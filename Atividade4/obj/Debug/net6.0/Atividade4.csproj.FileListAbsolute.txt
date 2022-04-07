@@ -1,0 +1,15 @@
+C:\Users\D4ni3L\Desktop\GFT-Start-4-EtapaTecnica\Atividade4\bin\Debug\net6.0\Atividade4.exe
+C:\Users\D4ni3L\Desktop\GFT-Start-4-EtapaTecnica\Atividade4\bin\Debug\net6.0\Atividade4.deps.json
+C:\Users\D4ni3L\Desktop\GFT-Start-4-EtapaTecnica\Atividade4\bin\Debug\net6.0\Atividade4.runtimeconfig.json
+C:\Users\D4ni3L\Desktop\GFT-Start-4-EtapaTecnica\Atividade4\bin\Debug\net6.0\Atividade4.dll
+C:\Users\D4ni3L\Desktop\GFT-Start-4-EtapaTecnica\Atividade4\bin\Debug\net6.0\Atividade4.pdb
+C:\Users\D4ni3L\Desktop\GFT-Start-4-EtapaTecnica\Atividade4\obj\Debug\net6.0\Atividade4.csproj.AssemblyReference.cache
+C:\Users\D4ni3L\Desktop\GFT-Start-4-EtapaTecnica\Atividade4\obj\Debug\net6.0\Atividade4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D4ni3L\Desktop\GFT-Start-4-EtapaTecnica\Atividade4\obj\Debug\net6.0\Atividade4.AssemblyInfoInputs.cache
+C:\Users\D4ni3L\Desktop\GFT-Start-4-EtapaTecnica\Atividade4\obj\Debug\net6.0\Atividade4.AssemblyInfo.cs
+C:\Users\D4ni3L\Desktop\GFT-Start-4-EtapaTecnica\Atividade4\obj\Debug\net6.0\Atividade4.csproj.CoreCompileInputs.cache
+C:\Users\D4ni3L\Desktop\GFT-Start-4-EtapaTecnica\Atividade4\obj\Debug\net6.0\Atividade4.dll
+C:\Users\D4ni3L\Desktop\GFT-Start-4-EtapaTecnica\Atividade4\obj\Debug\net6.0\refint\Atividade4.dll
+C:\Users\D4ni3L\Desktop\GFT-Start-4-EtapaTecnica\Atividade4\obj\Debug\net6.0\Atividade4.pdb
+C:\Users\D4ni3L\Desktop\GFT-Start-4-EtapaTecnica\Atividade4\obj\Debug\net6.0\Atividade4.genruntimeconfig.cache
+C:\Users\D4ni3L\Desktop\GFT-Start-4-EtapaTecnica\Atividade4\obj\Debug\net6.0\ref\Atividade4.dll
