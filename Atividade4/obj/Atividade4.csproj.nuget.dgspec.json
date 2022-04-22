@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\D4ni3L\\Desktop\\GFT-Start-4-EtapaTecnica\\Atividade4\\Atividade4.csproj": {}
+    "C:\\Users\\D4ni3L\\Desktop\\BeDev\\BackEnd\\CSharpDotNet\\Udemy\\CSharpPooUdemy\\GFT-Start-4-EtapaTecnica\\Atividade4\\Atividade4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\D4ni3L\\Desktop\\GFT-Start-4-EtapaTecnica\\Atividade4\\Atividade4.csproj": {
+    "C:\\Users\\D4ni3L\\Desktop\\BeDev\\BackEnd\\CSharpDotNet\\Udemy\\CSharpPooUdemy\\GFT-Start-4-EtapaTecnica\\Atividade4\\Atividade4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\D4ni3L\\Desktop\\GFT-Start-4-EtapaTecnica\\Atividade4\\Atividade4.csproj",
+        "projectUniqueName": "C:\\Users\\D4ni3L\\Desktop\\BeDev\\BackEnd\\CSharpDotNet\\Udemy\\CSharpPooUdemy\\GFT-Start-4-EtapaTecnica\\Atividade4\\Atividade4.csproj",
         "projectName": "Atividade4",
-        "projectPath": "C:\\Users\\D4ni3L\\Desktop\\GFT-Start-4-EtapaTecnica\\Atividade4\\Atividade4.csproj",
+        "projectPath": "C:\\Users\\D4ni3L\\Desktop\\BeDev\\BackEnd\\CSharpDotNet\\Udemy\\CSharpPooUdemy\\GFT-Start-4-EtapaTecnica\\Atividade4\\Atividade4.csproj",
         "packagesPath": "C:\\Users\\D4ni3L\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\D4ni3L\\Desktop\\GFT-Start-4-EtapaTecnica\\Atividade4\\obj\\",
+        "outputPath": "C:\\Users\\D4ni3L\\Desktop\\BeDev\\BackEnd\\CSharpDotNet\\Udemy\\CSharpPooUdemy\\GFT-Start-4-EtapaTecnica\\Atividade4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

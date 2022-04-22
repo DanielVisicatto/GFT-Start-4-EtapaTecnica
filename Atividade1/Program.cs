@@ -11,7 +11,7 @@ if (nascimento2 > nascimento1)
 {
     
     TimeSpan diferenca1 = nascimento2.Subtract(nascimento1);
-    Console.WriteLine($"Diferença de{diferenca1.TotalDays} dias)");
+    Console.WriteLine($"Diferença de {diferenca1.TotalDays} dias)");
 }
 else
 {
