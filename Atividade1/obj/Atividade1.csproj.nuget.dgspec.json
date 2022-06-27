@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\D4ni3L\\Desktop\\BeDev\\BackEnd\\CSharpDotNet\\Udemy\\CSharpPooUdemy\\GFT-Start-4-EtapaTecnica\\Atividade1\\Atividade1.csproj": {}
+    "C:\\Users\\D4ni3L\\Desktop\\BreakingDev\\BackEnd\\CSharpDotNet\\Udemy\\CSharpPooUdemy\\GFT-Start-4-EtapaTecnica\\Atividade1\\Atividade1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\D4ni3L\\Desktop\\BeDev\\BackEnd\\CSharpDotNet\\Udemy\\CSharpPooUdemy\\GFT-Start-4-EtapaTecnica\\Atividade1\\Atividade1.csproj": {
+    "C:\\Users\\D4ni3L\\Desktop\\BreakingDev\\BackEnd\\CSharpDotNet\\Udemy\\CSharpPooUdemy\\GFT-Start-4-EtapaTecnica\\Atividade1\\Atividade1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\D4ni3L\\Desktop\\BeDev\\BackEnd\\CSharpDotNet\\Udemy\\CSharpPooUdemy\\GFT-Start-4-EtapaTecnica\\Atividade1\\Atividade1.csproj",
+        "projectUniqueName": "C:\\Users\\D4ni3L\\Desktop\\BreakingDev\\BackEnd\\CSharpDotNet\\Udemy\\CSharpPooUdemy\\GFT-Start-4-EtapaTecnica\\Atividade1\\Atividade1.csproj",
         "projectName": "Atividade1",
-        "projectPath": "C:\\Users\\D4ni3L\\Desktop\\BeDev\\BackEnd\\CSharpDotNet\\Udemy\\CSharpPooUdemy\\GFT-Start-4-EtapaTecnica\\Atividade1\\Atividade1.csproj",
+        "projectPath": "C:\\Users\\D4ni3L\\Desktop\\BreakingDev\\BackEnd\\CSharpDotNet\\Udemy\\CSharpPooUdemy\\GFT-Start-4-EtapaTecnica\\Atividade1\\Atividade1.csproj",
         "packagesPath": "C:\\Users\\D4ni3L\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\D4ni3L\\Desktop\\BeDev\\BackEnd\\CSharpDotNet\\Udemy\\CSharpPooUdemy\\GFT-Start-4-EtapaTecnica\\Atividade1\\obj\\",
+        "outputPath": "C:\\Users\\D4ni3L\\Desktop\\BreakingDev\\BackEnd\\CSharpDotNet\\Udemy\\CSharpPooUdemy\\GFT-Start-4-EtapaTecnica\\Atividade1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

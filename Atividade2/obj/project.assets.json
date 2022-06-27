@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\D4ni3L\\Desktop\\GFT-Start-4-EtapaTecnica\\Atividade2\\Atividade2.csproj",
+      "projectUniqueName": "C:\\Users\\D4ni3L\\Desktop\\BreakingDev\\BackEnd\\CSharpDotNet\\Udemy\\CSharpPooUdemy\\GFT-Start-4-EtapaTecnica\\Atividade2\\Atividade2.csproj",
       "projectName": "Atividade2",
-      "projectPath": "C:\\Users\\D4ni3L\\Desktop\\GFT-Start-4-EtapaTecnica\\Atividade2\\Atividade2.csproj",
+      "projectPath": "C:\\Users\\D4ni3L\\Desktop\\BreakingDev\\BackEnd\\CSharpDotNet\\Udemy\\CSharpPooUdemy\\GFT-Start-4-EtapaTecnica\\Atividade2\\Atividade2.csproj",
       "packagesPath": "C:\\Users\\D4ni3L\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\D4ni3L\\Desktop\\GFT-Start-4-EtapaTecnica\\Atividade2\\obj\\",
+      "outputPath": "C:\\Users\\D4ni3L\\Desktop\\BreakingDev\\BackEnd\\CSharpDotNet\\Udemy\\CSharpPooUdemy\\GFT-Start-4-EtapaTecnica\\Atividade2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
